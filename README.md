@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Ravi1234-ui
+- 👋 Hi, I’m Ravi kumar pal passionate ml enthusiast
 - 👀 I’m interested in deep learning
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -> on whatsapp (95849)
-- 😄 Pronouns: mr ravi
+- 😄 Pronouns: Mr ravi
 - ⚡ Fun fact: nothing is bad in this world
 
 <!---
