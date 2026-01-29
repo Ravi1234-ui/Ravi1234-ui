@@ -46,10 +46,11 @@
 </p>
 
 ---
-
 ## 🐍 Contribution Snake Game
 
-![snake gif](https://github.com/Ravi1234-ui/Ravi1234-ui/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://github.com/Ravi1234-ui/Ravi1234-ui/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
