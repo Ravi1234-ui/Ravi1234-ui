@@ -54,19 +54,21 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ravi1234-ui&show_icons=true&theme=tokyonight" />
-</p>
+## 📊 GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi1234-ui&theme=tokyonight" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi1234-ui&layout=compact&theme=tokyonight" />
-</p>
+---
+
+## 🧠 Most Used Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+
 
 ---
 
