@@ -86,22 +86,4 @@
 
 ---
 
-## 🏅 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ravi1234-ui&theme=tokyonight&no-frame=true&row=1&column=6" />
-
----
-
-## ✍️ Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-
----
-
-## 🔝 Top Contributed Repositories
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Ravi1234-ui&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
-
----
-
 ⭐ If you like my work, consider starring my repositories!
