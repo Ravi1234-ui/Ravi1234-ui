@@ -33,19 +33,33 @@
 
 ---
 
-## 🧠 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" height="32"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js" />
-<br/>
-<img src="https://skillicons.dev/icons?i=flask,firebase,vercel,tensorflow,sklearn" />
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux" />
+### 🌐 Web Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" height="32"/>
+</p>
 
+### 🗄️ Database & Backend
+- **MySQL**
+- **Firebase**
+- **Flask**
+- **REST / Fast APIs**
+- **Machine Learning**
+- Deployment: **Vercel**
+
+### 🧰 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux" height="32"/>
 </p>
 
 ---
+
 ## 🐍 Contribution Snake Game
 
 <p align="center">
@@ -54,29 +68,24 @@
 
 ---
 
-## 📊 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ravi1234-ui&theme=dark&hide_border=true" />
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ravi1234-ui&theme=tokyonight" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravi1234-ui&theme=tokyonight" />
 </p>
 
-
-
 ---
 
-## 🧠 Most Used Languages
+## 📈 Contribution Graph
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravi1234-ui&theme=tokyo-night&hide_border=true" />
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravi1234-ui&theme=tokyonight" />
 
----
-
-## 📈 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravi1234-ui&theme=tokyo-night" />
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ravi1234-ui&theme=tokyonight&utcOffset=5.5" />
+</p>
 
 ---
 
