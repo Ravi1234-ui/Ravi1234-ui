@@ -57,8 +57,10 @@
 ## 📊 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi1234-ui&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Ravi1234-ui&theme=dark&hide_border=true" />
 </p>
+
+
 
 ---
 
