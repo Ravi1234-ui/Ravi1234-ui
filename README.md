@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Ravipal</h1>
-<h3 align="center">Integrated M.Tech CSE Student | Data Science & Machine Learning Enthusiast | DSA Learner</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Data+Science+Student;Machine+Learning+Enthusiast;DSA+Learner;Future+AI+Engineer;Creative+and+Hardworking&center=true&width=550&height=50">
-</p>
+# Hi 👋, I'm Ravipal
+
+### Integrated M.Tech CSE Student | Data Science & Machine Learning Enthusiast | DSA Learner
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Ravi1234-ui&label=Profile%20Views&color=0e75b6&style=flat">
 </p>
+</div>
 
 ---
 
 ## 🌐 Connect With Me
+
+<div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ravi_pal8817)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ravikumarpal9584)
@@ -20,83 +22,124 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://)
 
+</div>
+
 ---
 
-## 👨‍🎓 About Me
-
-- 🔭 Working on **Smart Wearable for Real-Time Health Monitoring using ML**  
-- 🌱 Learning **Machine Learning, Feature Engineering & Advanced DSA**  
-- 👯 Looking to collaborate on **Data Science & ML Projects**  
-- 🤔 Need help with **Model Optimization & Deployment**  
-- 💬 Ask me about **Python, ML, Data Analytics, DSA**  
-- ⚡ Fun fact: **I love converting complex problems into simple solutions**
+<table>
+  <tr>
+    <td>🎓 Education</td>
+    <td><strong>Integrated M.Tech CSE (2nd Year) — VIT Bhopal University</strong></td>
+  </tr>
+  <tr>
+    <td>🎯 Career Goal</td>
+    <td><strong>Aspiring Data Scientist & Software Development Engineer (SDE)</strong></td>
+  </tr>
+  <tr>
+    <td>🌱 Currently Learning</td>
+    <td><strong>Machine Learning, Feature Engineering & Advanced DSA</strong></td>
+  </tr>
+  <tr>
+    <td>🔍 Interests</td>
+    <td><strong>Machine Learning / AI · Data Science & Analytics · DSA / Competitive Programming</strong></td>
+  </tr>
+  <tr>
+    <td>👯 Open to Collaborate</td>
+    <td><strong>Data Science & ML Projects — actively looking for opportunities!</strong></td>
+  </tr>
+  <tr>
+    <td>💬 Ask me about</td>
+    <td><strong>Python, ML, Data Analytics, DSA</strong></td>
+  </tr>
+  <tr>
+    <td>📬 Reach me at</td>
+    <td><strong>rp077216@gmail.com</strong></td>
+  </tr>
+  <tr>
+    <td>⚡ Fun fact</td>
+    <td><strong>I love converting complex problems into simple solutions</strong></td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java" height="32"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
 
 ### 🌐 Web Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" height="32"/>
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
 ### 🗄️ Database & Backend
-- **MySQL**
-- **Firebase**
-- **Flask**
-- **REST / Fast APIs**
-- **Machine Learning**
-- Deployment: **Vercel**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
+
+### 🧠 ML & Data Science
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
 
 ### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux" height="32"/>
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?logo=googlecolab&logoColor=white&style=for-the-badge)
 
----
-
-## 🐍 Contribution Snake Game
-
-<p align="center">
-<img src="https://github.com/Ravi1234-ui/Ravi1234-ui/blob/output/github-contribution-grid-snake.svg" />
-</p>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ravi1234-ui&theme=tokyonight" />
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravi1234-ui&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ravi1234-ui&theme=tokyonight" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravi1234-ui&theme=tokyonight" />
-</p>
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ravi1234-ui&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
 
----
 
-## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravi1234-ui&theme=tokyo-night&hide_border=true" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ravi1234-ui&theme=tokyonight" />
-
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ravi1234-ui&theme=tokyonight&utcOffset=5.5" />
-</p>
+</div>
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 State Topper in Academics  
-- 🚀 Participant – 50 Days Coding Challenge  
-- 💻 Active Member – GFG 160 Days DSA Challenge  
-- 📊 Built Multiple Data Science & ML Projects  
-- 🧠 Strong Foundation in Data Structures & Algorithms  
+<div align="center">
+
+| 🥇 | State Topper in Academics |
+|---|---|
+| 🚀 | Participant – 50 Days Coding Challenge |
+| 💻 | Active Member – GFG 160 Days DSA Challenge |
+| 📊 | Built Multiple Data Science & ML Projects |
+| 🧠 | Strong Foundation in Data Structures & Algorithms |
+
+</div>
 
 ---
 
-⭐ If you like my work, consider starring my repositories!
+<div align="center">
+
+⭐ If you like my work, consider **starring** my repositories!
+
+</div>
